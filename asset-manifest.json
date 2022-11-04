@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.680b8db1.css",
+    "main.js": "/static/js/main.890a683b.js",
+    "static/js/787.55d71872.chunk.js": "/static/js/787.55d71872.chunk.js",
+    "static/media/PingFang ExtraLight.ttf": "/static/media/PingFang ExtraLight.5fd5debb246e2af4c05c.ttf",
+    "static/media/PingFang Light.ttf": "/static/media/PingFang Light.dd9993384c19c3bc71d3.ttf",
+    "static/media/PingFang Regular.ttf": "/static/media/PingFang Regular.8e752fd0ad0ea39bc216.ttf",
+    "static/media/PingFang Medium.ttf": "/static/media/PingFang Medium.b47f0871ce440c330ff6.ttf",
+    "static/media/PingFang Bold.ttf": "/static/media/PingFang Bold.e87a6b531eb2210f7d44.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.680b8db1.css.map": "/static/css/main.680b8db1.css.map",
+    "main.890a683b.js.map": "/static/js/main.890a683b.js.map",
+    "787.55d71872.chunk.js.map": "/static/js/787.55d71872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680b8db1.css",
+    "static/js/main.890a683b.js"
+  ]
+}
